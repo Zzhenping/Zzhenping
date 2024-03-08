@@ -4,7 +4,7 @@
 
 * 👯 我是一名全栈工程师(哪里有砖哪里搬)
 
-平时也写写 React Vue 玩玩小程序
+平时也写写 React Vue 
 
 * 🔭 Gopher
 * 🔭 PHPer
