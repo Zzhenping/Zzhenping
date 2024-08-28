@@ -4,10 +4,11 @@
 
 * 👯 哪里有砖哪里搬
 
-平时写写Go PHP React Vue JavaFX
-
 * 🔭 Gopher
+* 🔭 Python / PyTorch
 * 🔭 PHPer
+* 🔭 JavaScript
+* 🔭 C++
 * 🌱 Open source fancier
 * 🌱 Java enthusiasts
 
