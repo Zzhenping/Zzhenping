@@ -5,7 +5,7 @@
 * 👯 哪里有砖哪里搬
 
 * 🔭 Gopher
-* 🔭 Python / PyTorch
+* 🔭 Python
 * 🔭 PHPer
 * 🔭 JavaScript
 * 🔭 C++
