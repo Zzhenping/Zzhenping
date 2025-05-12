@@ -8,8 +8,6 @@
 * 🔭 Python
 * 🔭 PHPer
 * 🔭 JavaScript
-* 🔭 C++
 * 🌱 Open source fancier
-* 🌱 Java enthusiasts
 
 ***
